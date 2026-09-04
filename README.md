@@ -1,5 +1,7 @@
 ## Curtis Van Oeveren-Goss
 
+AI wrote this. I'm still working on it...
+
 Physics and finance by training, systems architect by practice. I build the data
 infrastructure that institutions need and were never designed to support.
 
